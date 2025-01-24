@@ -1,0 +1,8 @@
+Counting score (1pt)
+Unfair Ai (1pt)
+Read maps from a json file (2pts)
+Welcome screen (2.5pts)
+Score screen (2.5pts)
+Additional win condition (3pts)
+Implement fog of war (3pts)
+

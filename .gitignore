@@ -1,0 +1,17 @@
+.eric5project
+_eric5project
+.ropeproject
+_ropeproject
+.directory
+.vscode
+**.pyc
+**.pyo
+**.orig
+**.bak
+**.rej
+**~
+__pycache__
+*.e4p
+ctf.tar.bz2
+*kdev*
+ctf-env
